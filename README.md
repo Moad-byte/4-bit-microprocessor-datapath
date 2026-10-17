@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="4-Bit Microprocessor Datapath project cover" width="100%">
+  <img src="assets/cover.jpeg" alt="4-Bit Microprocessor Datapath project cover" width="100%">
 </p>
 
 <h1 align="center">4-Bit Microprocessor Datapath</h1>
